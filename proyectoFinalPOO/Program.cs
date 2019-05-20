@@ -13,6 +13,7 @@ namespace proyectoFinalPOO
         {
             masterControl nGame = new masterControl();
             nGame.reglas();
+
             Console.ReadKey();
 
         }
